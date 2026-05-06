@@ -30,4 +30,7 @@ PR_06_may_html_MINGBOI_SADDAM_-_32_ISd
    ```bash
    git clone https://github.com/ваш-username/ваш-проект.git
    cd ваш-проект
+<img width="771" height="474" alt="4" src="https://github.com/user-attachments/assets/8a8b7c92-a2b3-45b7-8f8c-18fff0ae4e28" /><img width="569" height="831" alt="3" src="https://github.com/user-attachments/assets/58fad20f-d4eb-467d-a8af-bf6f7901825a" />
+<img width="1272" height="760" alt="2" src="https://github.com/user-attachments/assets/b37789e1-5834-423e-b70f-daaad12af4c6" />
+<img width="1315" height="642" alt="1" src="https://github.com/user-attachments/assets/5b0cf244-6c02-46f0-82df-70ac6780ad7a" />
 
